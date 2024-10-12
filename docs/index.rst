@@ -62,17 +62,3 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    tutorial_notebooks/Introduction/tutorial1/introduction_pytorch
    tutorial_notebooks/Introduction/tutorial2/introduction_torch_geometric
    tutorial_notebooks/Introduction/tutorial3/introduction_dgl
-
-
-.. toctree::
-   :caption: Shallow Graph Embeddings
-   :maxdepth: 2
-
-   
-.. toctree::
-   :caption: Graph Neural Network 1 (torch_geometric)
-   :maxdepth: 2
-
-.. toctree::
-   :caption: Graph Neural Network 2 (DGL)
-   :maxdepth: 2
