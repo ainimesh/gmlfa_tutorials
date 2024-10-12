@@ -49,7 +49,7 @@ We present these tutorials as a self study for the Graph Machine Learning Founda
 If you find the tutorials helpful and would like to cite them, you can use the following bibtex::
 
    @misc{animesh,
-      title        = {{GMLFA (Graph Machine Learning Foundation and Applications) Tutorials}},
+      title        = {{GMLFA:Graph Machine Learning Foundation and Applications, Tutorials}},
       author       = {Animesh},
       year         = 2024,
       howpublished = {\url{https://gmlfa-tutorials.readthedocs.io/en/latest/}}
