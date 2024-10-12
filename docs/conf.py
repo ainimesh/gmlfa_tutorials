@@ -1,10 +1,10 @@
 # Configuration file for the Sphinx documentation builder.
 # Add these lines to your conf.py
-import nbsphinx
-import logging
+# import nbsphinx
+# import logging
 
-nbsphinx.setup(app)
-logging.getLogger('nbsphinx').setLevel(logging.DEBUG)
+# nbsphinx.setup(app)
+# logging.getLogger('nbsphinx').setLevel(logging.DEBUG)
 
 import sphinx_rtd_theme
 
