@@ -44,7 +44,7 @@ to be added soon
 Feedback, Questions or Contributions
 ------------------------------------
 
-We present these tutorials as a self study for the Graph Machine Learning Foundation and Applications course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks. Please use the following [link](https://docs.google.com/document/d/1pAxJLKn_4kl6oPOcM0SI10wI2Av5rrs1wG3ZQ-MECgo/edit?usp=sharing) to submit feedback, or feel free to reach out to me directly per mail (animesh dot sachan24794 at gmail dot com), or talk to me during any TA session.
+We present these tutorials as a self study for the Graph Machine Learning Foundation and Applications course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks. Please use the following `link <https://docs.google.com/document/d/1pAxJLKn_4kl6oPOcM0SI10wI2Av5rrs1wG3ZQ-MECgo/edit?usp=sharing>`_ to submit feedback, or feel free to reach out to me directly per mail (animesh dot sachan24794 at gmail dot com), or talk to me during any TA session.
 
 If you find the tutorials helpful and would like to cite them, you can use the following bibtex::
 
