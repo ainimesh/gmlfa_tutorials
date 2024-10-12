@@ -1,22 +1,8 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the GMLFA (Graph Machine Learning Foundation and Applications) Tutorials!
+===========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+| *Course website*: https://ainimesh.github.io/gmlfa_autumn_2024/
+| *Course edition*: GMLFA3 - Autumn 2024, GMLFA2 - Autumn 2023, Being kept up to date
+| *Repository*: https://github.com/ainimesh/gmlfa_tutorials
+| *Recordings*: `YouTube Playlist <https://youtube.com/playlist?list=PLCFRu9YAKK39_kwJlmAWF_SLkURYi8vDF&si=ZcrgDvGvk6zAmgvV>`_
+| *Author*: Animesh Sachan (TA-GMLFA)
