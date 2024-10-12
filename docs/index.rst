@@ -72,5 +72,10 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    tutorial_notebooks/GNN0/tutorial2/
    tutorial_notebooks/GNN0/tutorial3/
    
+.. toctree::
+   :caption: Graph Neural Network 1 (torch_geometric)
+   :maxdepth: 2
 
-
+.. toctree::
+   :caption: Graph Neural Network 2 (DGL)
+   :maxdepth: 2
