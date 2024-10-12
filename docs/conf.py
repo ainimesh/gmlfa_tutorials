@@ -40,6 +40,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'tutorial_notebooks/tuto
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+html_context = {
+  'display_github': True,
+  'github_user': 'ainimesh',
+  'github_repo': 'gmlfa_tutorials',
+  'github_version': 'main'
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
