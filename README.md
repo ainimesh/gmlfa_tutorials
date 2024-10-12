@@ -4,7 +4,7 @@ Welcome to the GMLFA (Graph Machine Learning Foundation and Applications) Tutori
 These tutorials are the part of the course (GMLFA) offered by IIT Kharagpur, WB India.
 -------------------------------------------
 
-*Course website*: https://ainimesh.github.io/gmlfa_autumn_2024/</br>
+*Course website*: [GMLFA Webpage](<https://ainimesh.github.io/gmlfa_autumn_2024/>)</br>
 *Course edition*: GMLFA3 - Autumn 2024, GMLFA2 - Autumn 2023, Being kept up to date</br>
 *Recordings*: [YouTube Playlist](<https://youtube.com/playlist?list=PLCFRu9YAKK39_kwJlmAWF_SLkURYi8vDF&si=ZcrgDvGvk6zAmgvV>)</br>
 *Author*: Animesh Sachan (TA-GMLFA)
