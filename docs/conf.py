@@ -44,7 +44,7 @@ html_context = {
   'display_github': True,
   'github_user': 'ainimesh',
   'github_repo': 'gmlfa_tutorials',
-  'github_version': 'main'
+  'github_version': 'main/doc/'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
