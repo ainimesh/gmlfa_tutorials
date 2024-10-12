@@ -63,3 +63,7 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    tutorial_notebooks/Introduction/tutorial2/introduction_torch_geometric
    tutorial_notebooks/Introduction/tutorial3/introduction_dgl
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Shallow Graph Embeddings:
+
