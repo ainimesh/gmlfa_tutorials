@@ -68,9 +68,6 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    :caption: Shallow Graph Embeddings
    :maxdepth: 2
 
-   tutorial_notebooks/GNN0/tutorial/
-   tutorial_notebooks/GNN0/tutorial2/
-   tutorial_notebooks/GNN0/tutorial3/
    
 .. toctree::
    :caption: Graph Neural Network 1 (torch_geometric)
