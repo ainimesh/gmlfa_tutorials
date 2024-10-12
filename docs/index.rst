@@ -6,3 +6,8 @@ Welcome to the GMLFA (Graph Machine Learning Foundation and Applications) Tutori
 | *Repository*: https://github.com/ainimesh/gmlfa_tutorials
 | *Recordings*: `YouTube Playlist <https://youtube.com/playlist?list=PLCFRu9YAKK39_kwJlmAWF_SLkURYi8vDF&si=ZcrgDvGvk6zAmgvV>`_
 | *Author*: Animesh Sachan (TA-GMLFA)
+
+.. note::
+   This Project is currently under developement! If you are interested to contribute, create a pull request of the project github.
+
+
