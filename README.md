@@ -9,6 +9,8 @@ These tutorials are the part of the course (GMLFA) offered by IIT Kharagpur, WB 
 *Recordings*: [YouTube Playlist](<https://youtube.com/playlist?list=PLCFRu9YAKK39_kwJlmAWF_SLkURYi8vDF&si=ZcrgDvGvk6zAmgvV>)</br>
 *Author*: Animesh Sachan (TA-GMLFA)
 
+
+
 For this course, we created a series of Jupyter notebooks that are designed to help you understanding the "theory" from the lectures by seeing corresponding implementations.
 We will see and understand various topics in graph machine learning such as different graph neural network architectures etc. (full list will be provided below!)
 
