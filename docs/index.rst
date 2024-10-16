@@ -65,5 +65,11 @@ If you find the tutorials helpful and would like to cite them, you can use the f
    
 .. toctree::
    :maxdepth: 2
+   :caption: NetworkX:
+
+   tutorial_notebooks/GNN0/tutorial1/welcome2networkx
+
+.. toctree::
+   :maxdepth: 2
    :caption: Shallow Graph Embeddings:
 
