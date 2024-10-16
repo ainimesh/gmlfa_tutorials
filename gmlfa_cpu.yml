@@ -1,0 +1,23 @@
+name: gml2024
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2
+  - pip=23.3.1
+  - cpuonly=2.0
+  - pytorch=2.3.0
+  - torchvision=0.18.0
+  - torchaudio=2.3.0
+  - pip:
+    - networkx==3.3
+    - pytorch-lightning==2.4.0
+    - tabulate>=0.8.9
+    - tqdm>=4.62.3
+    - pillow>=8.0.1
+    - notebook>=6.4.5
+    - jupyterlab>=3.2.1
+    - matplotlib>=3.4.3
+    - seaborn>=0.11.2
+    - ipywidgets>=7.6.5
