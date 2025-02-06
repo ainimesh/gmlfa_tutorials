@@ -7,6 +7,10 @@ Pygments==2.15.0
 sphinxcontrib-bibtex>=2.1
 sphinxcontrib-svg2pdfconverter
 sphinx-gallery
+numpy == 1.26.4
+networkx == 3.3
+fastdtw == 0.3.4
+gensim == 4.3.3 
 # Sphinx==4.0.2
 # sphinx-rtd-theme==0.5.2
 # readthedocs-sphinx-ext
